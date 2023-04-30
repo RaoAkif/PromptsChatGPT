@@ -3,14 +3,15 @@
 ### LinkedIn Newsletter Article Preparations
 #### To generate Hashtags for Articles
 ```
-This is a linkedin article.
+I have written this article for my LinkedIn Newsletter.
+Kindly add appropriate hashtags and mentions, keeping in mind the LinkedIn algorithm in mind to reach the maximum audience
+
 [PUT THE ARTICLE HERE]
-Kindly add appropriate hashtags and mentions, keeping in mind the LinkedIn algorithm in mind to reach maximum audience
 ```
 #### To generate Article Sharing Post
 ```
-This is my linkedin article titled " [TITLE OF THE ARTICLE] ", which I wrote for an article series titled: Practical Applications of Data Structures and Algorithms
-Kindly write a LinkedIn status message, with appropriate hashtaging.
+This is my LinkedIn article titled " [TITLE OF THE ARTICLE] ", which I wrote for an article series titled: Practical Applications of Data Structures and Algorithms
+Kindly write a LinkedIn status message, with appropriate hashtagging.
 ```
 
 ###### Generated from
